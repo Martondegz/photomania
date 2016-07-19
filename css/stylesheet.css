@@ -1,0 +1,14 @@
+li{
+	display:inline;
+	list-style:none;
+}
+
+
+
+li a{
+	padding: 30px;
+}
+h1 {
+	border-radius: 1px solid grey;
+	font-size: 50px;
+}
