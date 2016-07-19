@@ -1,14 +1,33 @@
-li{
-	display:inline;
-	list-style:none;
+li {
+    display: inline;
+    list-style: none;
 }
 
+.navigation {
+    color: #12af5e;
+    background-image: url(../images/lens.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: 
 
-
-li a{
-	padding: 30px;
+    linear-gradient(
+    rgba(83, 67, 55, 0.78),
+    rgba(83, 67, 55, 0.78)
+   ),
+    url(../images/lens.jpg);
+    
 }
+
+li a {
+    padding: 30px;
+}
+
 h1 {
-	border-radius: 1px solid grey;
-	font-size: 50px;
+    display: block
 }
+
+.work {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
