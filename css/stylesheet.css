@@ -14,17 +14,22 @@ li {
     background-repeat: no-repeat;
     background-size: cover;
     background: linear-gradient( rgba(83, 67, 55, 0.78), rgba(83, 67, 55, 0.78)), url(../images/lens.jpg);
-    height: 500px;
+    height: 600px;
+}
+nav a:hover{
+	background-color:rgba(45, 124, 83, 0.59)d;
 }
 
 ul {
-    text-align: right;
+    text-align: center;
     position: relative;
-    bottom: 350px;
+    bottom: 500px;
 }
 
 li a {
-    padding: 30px;
+        padding: 50px;
+
+
 }
 
 h1 {
@@ -34,7 +39,4 @@ h1 {
 .work {
     padding-right: 30px;
     padding-left: 30px;
-}
-.reg{
-	text-align: center;
 }
